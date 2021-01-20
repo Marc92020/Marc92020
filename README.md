@@ -8,7 +8,7 @@ I am Marc92020. I am on Scratch and joined github because I wanted to help out w
 💬 Ask me about scratch related questions
 📫 How to reach me: My Scratch Profile @Marc92020
 😄 Pronouns: Thinking for pornouns
-⚡ Fun fact: I have 110 followers on Scratch
+⚡ Fun fact: I have over 110 followers on Scratch
 <!--
 **Marc92020/Marc92020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
