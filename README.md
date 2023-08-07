@@ -1,4 +1,9 @@
-i forgot what used to be here
+# hi
+im marc92020, some random person who does stuff sometimes
+## insert title here
+i know some html, a small amount of javascript and a small but slightly more amount of css
+## where else
+im in a few other places, you can find the list insert link here here
 <!--
 **Marc92020/Marc92020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
