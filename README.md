@@ -1,5 +1,7 @@
 # hi
 im marc92020, some random person who does stuff sometimes
+## why is my name so goofy?
+i made it a while ago
 ## insert title here
 i know some html, a small amount of javascript and a small but slightly more amount of css
 ## where else
