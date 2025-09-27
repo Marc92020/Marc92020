@@ -6,6 +6,8 @@ i made it a while ago
 i know some html, a small amount of javascript and a small but slightly more amount of css
 ## where else
 im in a few other places, you can find the list [here](https://marc92020.github.io/super-duper-journey/)
+
+i dont actually use github for its intended purpose i just use it for website hosting tbh
 <!--
 **Marc92020/Marc92020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
